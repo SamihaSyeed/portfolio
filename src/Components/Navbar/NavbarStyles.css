@@ -1,0 +1,20 @@
+
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 50px;
+    align-items: center;
+    margin: 0 auto;
+    position: fixed;
+    top:20px;
+    right:0;
+}
+
+.nav-menu li a{
+    text-decoration: none;
+    padding:25px;
+    color:rgb(188,153,121);
+    font-weight: bold;
+    font-size:14px
+}

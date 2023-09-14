@@ -1,0 +1,21 @@
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(151,80,48);
+    height:50%;
+    padding: 30px 100px 60px 130px;
+    width: 100%;
+}
+
+.media-icons a>img{
+    padding-right:10px;
+}
+
+@media screen and (max-width:700px) {
+    .footer{
+        width:100%;
+        position:absolute;
+        padding:10px;
+        display:block
+    }
+}

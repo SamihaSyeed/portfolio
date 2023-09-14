@@ -1,0 +1,25 @@
+@import url(//db.onlinewebfonts.com/c/e5f78b4fb90a80a32be156470cbfead1?family=Avenir+LT+Pro);
+
+body {
+  margin: 0;
+  font-family: 'Avenir LT Pro';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: black;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.list{
+  text-decoration: none;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+a{
+  text-decoration: none;
+}
